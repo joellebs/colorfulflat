@@ -1,0 +1,408 @@
+body{
+		margin:0px;
+}
+section{
+	padding:50px 0px;
+}
+nav{
+	background-color:#A7D3DC;
+	font-family:"Patua One";
+	text-transform: uppercase;
+	padding-bottom:25%;
+}
+.logo{
+	color:#6A717C;
+	display:inline-block;
+	padding-left:20%;
+	padding-top:20px;
+}
+.logo h4{
+	display:inline-block;
+}
+.nav a{
+	text-decoration:none;
+	color:#6A717C;
+}
+nav li{
+	display:inline-block;
+	padding:20px;
+	font-size:12px;
+}
+nav ul{
+	position:absolute;
+	float:right;
+	right:20%;
+	top:5px;
+}
+a:hover{
+	border:none;
+	border-radius:5px;
+	background-color:#6A717C;
+	color: white;
+	padding:10px;
+	padding-left:10px;
+	padding-right:10px;
+}
+nav h1{
+	color:white;
+	display:inline-block;
+	text-align:center;
+	padding-left:20%;
+	font-size:40px;
+	letter-spacing:10px;
+	position:absolute;
+	top:20%;
+	color:white;
+	width:30%;
+}
+.desktop{
+	display:inline-block;
+	position:absolute;
+	top:150px;
+	right:25%;
+	width:400px;
+	height:350px;
+	padding-top:30px;
+	text-align:center;
+}
+.wrapper1{
+	background-color:#ededed;
+	text-align:center;
+	color:#3C4A4B;
+}
+.content{
+	display:inline-block;
+	text-align:center;
+	width:12%;
+	padding:4%;
+	font-family:"Patua One";
+}
+.content h5{
+	text-transform:capitalize;
+}
+.content p{
+	font-size:10px;
+}
+.wrapper2{
+	background-color:#9BD4A6;
+	text-align:center;
+	font-family:"Patua One";
+	color:white;
+}
+.title h1{
+	text-transform:uppercase;
+	margin:0px;
+	text-align:center;
+	display:block;
+
+}
+.title p{
+	display:inline-block;
+	font-size:12px;
+	margin:10px;
+	width:20%;
+	text-align:center;
+}
+.work ul{
+	padding-top:40px;
+}
+.work li{
+	display:inline-block;
+	text-align: center;
+}
+.work a{
+	text-decoration:none;
+	color:white;
+	padding:20px;
+	text-transform:uppercase;
+}
+.work a:hover{
+	border:none;
+	border-radius:5px;
+	background-color:white;
+	color: grey;
+	padding:10px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.illustration{
+	width:50%;
+	display:inline-block;
+}
+.images{
+	display:inline-block;
+	text-align:center;
+	padding:30px;
+}
+.button{
+	font-family:"Patua One";
+	display:block;
+	text-align:center;
+	padding-top:10px;
+}
+.click{
+	background-color:#ededed;
+	font-family:"patua One";
+	border:none;
+	padding:15px;
+	padding-left:15px;
+	padding-right:15px;
+	text-transform:uppercase;
+	color:grey;
+	border-radius:5px;
+}
+.wrapper3{
+	background-color:#F0F0F0;
+	font-family:"Patua One";
+	color:#6A717C;
+	text-align:center;
+}
+.photoshop{
+	display:inline-block;
+	text-align:center;
+}
+.photoshop img{
+		display:inline-block;
+		text-align:center;
+}
+.text{
+		display:inline-block;
+		width:50%;
+		text-align:left;
+		position:relative;
+		top:-50px;
+}
+.text h5{
+		margin:0px;
+}
+.text p{
+	font-size:10px;
+}
+.click1{
+	background-color:#9BD4A6;
+	font-family:"patua One";
+	border:none;
+	padding:15px;
+	padding-left:15px;
+	padding-right:15px;
+	text-transform:uppercase;
+	color:white;
+	border-radius:5px;
+}
+.template{
+	display:inline-block;
+	text-align:center;
+}
+.template img{
+		display:inline-block;
+		position:relative;
+		float:right;
+		right:12%;		
+}
+.text2{
+		display:inline-block;
+		width:50%;
+		text-align:right;
+		position:relative;
+		padding-top:13%;
+}
+.text2 h5{
+		margin:0px;
+}
+.text2 p{
+	font-size:10px;
+}
+.click2{
+	background-color:#A7D3DC;
+	font-family:"patua One";
+	border:none;
+	padding:15px;
+	padding-left:15px;
+	padding-right:15px;
+	text-transform:uppercase;
+	color:white;
+	border-radius:5px;
+}
+.wrapper4{
+	background-color:#DFB6C6;
+	font-family:"Patua One";
+	color:white;
+	text-align:center;
+}
+.title1 h2{
+	text-transform:uppercase;
+	margin:0px;
+}
+.title1 p{
+	display:inline-block;
+	font-size:12px;
+	margin:10px;
+	margin-bottom:60px;
+	width:20%;
+	text-align:center;
+}
+.team{
+	color:grey;
+	width:10.4%;
+	display:inline-block;
+	text-align:center;
+	margin:25px 60px;
+	padding:0px 0px 25px;
+	border:none;
+	border-radius:0px;
+	background-color:white;
+	box-shadow:0px 0px 3px #888888;
+}
+.team img{
+	display:inline-block;
+}
+.team h5{
+	text-transform:uppercase;
+	font-size:18px;
+	margin:10px;
+}
+.team h6{
+	margin:0px;
+}
+.team p{
+	font-size:10px;
+	padding:5px;
+	margin: 0px;
+}
+.socialicons a{
+	text-decoration:none;
+	padding:10px;
+}
+.wrapper5{
+	background-color:#A7D3DC;
+	font-family:"Patua One";
+	color:white;
+	text-align:center;
+}
+.title2 h2{
+	text-transform:uppercase;
+		margin:0px;
+}
+.title2 p{
+	display:inline-block;
+	font-size:12px;
+	margin:10px;
+	margin-bottom:60px;
+	width:20%;
+	text-align:center;
+	text-transform:capitalize;
+}
+.posts{
+	display:inline-block;
+	width:13.6%;
+	text-align:center;
+	margin:25px 15px;
+	padding:0px 0px 20px;
+	border:none;
+	border-radius:0px;
+	background-color:white;
+	box-shadow:0px 0px 3px #888888;
+}
+.posts h5{
+	text-transform:capitalize;
+	color:#6A717C;
+	margin:10px;
+	font-size:15px;
+
+}
+.posts h6{
+	color:#6A717C;
+	margin:0px;
+
+}
+.posts p{
+	color:#6A717C;
+	font-size:10px;
+	padding:5px;
+	margin: 0px;
+}
+.button{
+	display:block;
+}
+.click3{
+	background-color:#ededed;
+	font-family:"patua One";
+	border:none;
+	padding:15px;
+	padding-left:15px;
+	padding-right:15px;
+	text-transform:uppercase;
+	color:grey;
+	border-radius:5px;
+}
+.wrapper6{
+	background-color:#6A717C;
+	font-family:"Patua One";
+	color:white;
+	text-align:center;
+}
+.title3 h2{
+	text-transform:uppercase;
+	margin:0px;
+}
+.title3 p{
+	display:inline-block;
+	font-size:12px;
+	margin:10px;
+	margin-bottom:60px;
+	width:20%;
+	text-align:center;
+	text-transform:capitalize;
+}
+.input input{
+	display:inline-block;
+	padding:15px;
+	padding-right:10%;
+	font-family:"Patua One";
+	margin:5px;
+	border:none;
+	border-radius:5px;
+}
+.input textarea{
+	padding:15px;
+	padding-right:9.5%;
+	font-family:"Patua One";
+	margin:5px;
+	border:none;
+	border-radius:5px;
+}
+.click4{
+	background-color:#ededed;
+	font-family:"patua One";
+	border:none;
+	padding:15px;
+	padding-left:15px;
+	padding-right:15px;
+	text-transform:uppercase;
+	color:grey;
+	border-radius:5px;
+}
+hr{
+	display:inline-block;
+	margin-top:50px;
+	width:60%;
+	text-align:center;
+}
+.icons{
+	color:white;
+	display:inline-block;
+}
+.icons i, a{
+	display:inline-block;
+	color:white;
+	text-decoration:none;
+	padding:20px;
+}
+footer p{
+	display:inline-block;
+	padding-left:21%;
+}
+span{
+	color:yellow;
+}
